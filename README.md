@@ -53,6 +53,7 @@ down, each claim citing the code it came from:
 | [`CALL_SITES.md`](CALL_SITES.md), [`analysis/`](analysis/) | what calls what, memory layout, the live recordings the rules are held to, the witness ledgers |
 | [`CATALOG_FINDINGS.md`](CATALOG_FINDINGS.md) | the disk's catalogue and file formats |
 | [`rea-disassembly/`](rea-disassembly/), [`detokenized/`](detokenized/), [`extracted/`](extracted/), [`disassembly/`](disassembly/) | the decompiled and extracted code and data |
+| [`APPLE_II_PATCH_PLAN.md`](APPLE_II_PATCH_PLAN.md) | a plan, not started, for fixing the original's bugs and speeding its 3D engine |
 | [`tools/`](tools/) | the decoders, the emulator scripts, the witness checker |
 
 ## What is in the repository
